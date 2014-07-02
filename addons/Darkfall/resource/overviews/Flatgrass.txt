@@ -1,0 +1,10 @@
+nian3
+{
+	material overviews/Flatgrass
+	pos_x 0
+	pos_y 0
+	scale 8.000
+	rotate 0
+	zoom 1.5000
+}
+
